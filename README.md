@@ -1,3 +1,6 @@
+[How the internet works](https://www.youtube.com/watch?v=Dxcc6ycZ73M&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7&index=1)
+
+
 OSI Stack Layers:
 
 1. Physical (bits, 1/0)
