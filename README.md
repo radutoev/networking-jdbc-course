@@ -17,3 +17,10 @@ Architecture Types:
 -> Point2Point
 
 2. Decentralized (Blockchain)
+
+
+URL Scheme:
+<protocol>:(<subprotocol> - optional)//<adresa>:<port>
+
+ - https://google.com:443
+ - jdbc:mysql//localhost:3306
