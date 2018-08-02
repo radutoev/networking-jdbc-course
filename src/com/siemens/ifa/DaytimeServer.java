@@ -17,7 +17,9 @@ public class DaytimeServer {
             while (true) {
                 try(Socket connection = serverSocket.accept()) {
                     Writer out = new OutputStreamWriter(connection.getOutputStream());
+
                     Date d = new Date();
+
                     out.write(d.toString() + "\r\n");
                     out.flush();
                 }
