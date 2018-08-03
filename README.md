@@ -20,7 +20,7 @@ Architecture Types:
 
 
 URL Scheme:
-<protocol>:(<subprotocol> - optional)//<adresa>:<port>
+`<protocol>:(<subprotocol> - optional)//<adresa>:<port>`
 
  - https://google.com:443
  - jdbc:mysql//localhost:3306
